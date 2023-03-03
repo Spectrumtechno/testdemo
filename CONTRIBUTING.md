@@ -1,4 +1,4 @@
-# Contributing
+# Contributing :-
 
 Thanks for your interest in contributing to Tusky! Here are some informations to help you get started.
 
